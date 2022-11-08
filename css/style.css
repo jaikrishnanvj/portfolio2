@@ -187,12 +187,12 @@ img {
     height: 44px;
 }
 .social-icons a {
-    width: 299px;
-    height: 60px;
+    width: 49px;
+    height: 40px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(53, 50, 50);
     border-radius: 200px;
-    font-size: 54px;
+    font-size: 34px;
 }
